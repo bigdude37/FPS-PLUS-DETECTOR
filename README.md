@@ -11,13 +11,16 @@ Fast Detection: Quickly parses your mod files to isolate the infected ones.
 Simple Interface: Select your folder, click upload, and get instant results.
 
 ⚠️ Prerequisite: Recovering Lost Mods
+
 If your mods have completely disappeared from your game folder, you must recover them from your Steam Workshop directory before scanning.
 
 You can find your downloaded Workshop mods here:
 C:\Program Files (x86)\Steam\steamapps\workshop\content\1118200
 
 How to Use
-Move your mods: Copy all of your recovered mods from the Workshop directory into your local People Playground mods folder located at:
+
+Move your mods: 
+Copy all of your recovered mods from the Workshop directory into your local People Playground mods folder located at:
 C:\Program Files (x86)\Steam\steamapps\common\People Playground\Mods
 
 Launch the detector: Double-click the FPS+++++ Detector.html file. It will open safely in a new tab in your default web browser.
